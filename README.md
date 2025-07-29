@@ -1,4 +1,5 @@
-# 🤖 AI Destekli Emoji Hikaye Oyunu 🎮
+# 🤖 AI Destekli Emoji Hikaye Oyunu 🎮 (React + GPT-4)
+
 
 **Emoji kombinasyonları ile hikaye tahmin etme oyunu.**  
 OpenAI GPT-4 entegrasyonu ile dinamik hikaye üretimi ve akıllı ipuçları içerir.
