@@ -5,11 +5,14 @@
 OpenAI GPT-4 entegrasyonu ile dinamik hikaye üretimi ve akıllı ipuçları içerir.
 
 ## 🚀 Özellikler
-- **GPT-4 Hikaye Üretimi** ve akıllı ipuçları  
-- **Zorluk Seviyeleri**: Kolay (3 ipucu), Orta (2), Zor (1)  
-- **3 Soruluk Hızlı Başla** modu  
-- **Liderlik Tablosu** ve skor sistemi  
+
+- **GPT-4 Hikaye Üretimi** ve akıllı ipuçları
+- **Günlük Görev**: Her gün 3 sabit hikaye ile oynama imkanı
+- **Zorluk Seviyeleri**: Kolay (3 ipucu), Orta (2), Zor (1)
+- **3 Soruluk Hızlı Başla** modu
+- **Liderlik Tablosu** ve skor sistemi
 - **Responsive Tasarım** (mobil, tablet, masaüstü)
+
 
 ## 🛠 Teknolojiler
 - React + Vite  
